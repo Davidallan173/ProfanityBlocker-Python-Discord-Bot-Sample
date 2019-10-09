@@ -1,0 +1,8 @@
+{
+	"ProfaneData": ["ProfanityBlockerLicence", true, true, true],
+	"DeleteOnProfaneMessage": true,
+	"MessageOnProfane": true,
+	"MessageProfane": "You can not use that language here.",
+	"BotToken": "DiscordBotToken"
+
+}
